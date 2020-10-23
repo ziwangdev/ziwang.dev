@@ -1,0 +1,26 @@
+.self-intro{
+    font-size: 2.65vw;
+    line-height: 8vh;
+    margin-left: 10vw;
+    padding-left: 100px;
+    padding-top: 30px;
+    align-items: center;
+    cursor: url("./assets/cursor-crosshair.png") 12 12, auto;
+}
+
+.self-intro b{
+    color: black;
+}
+
+.self-intro h1{
+    font-family: "Roboto", sans-serif;
+    color: gray;
+}
+
+.self-intro h1:hover{
+    color: blue;
+}
+
+.self-intro b:hover{
+    color: gray;
+}
