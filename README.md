@@ -7,3 +7,4 @@ A demo version can be viewed here：https://prod.d1119t2xuc8u9s.amplifyapp.com/.
 
 ## Tech Stack
 - React
+- Adobe Illustrator and Photoshop for all the art
